@@ -1,2 +1,2 @@
-# animals-vehicles-recognition
+# AV Vision
 CIFAR10-based CNN for binary classification
